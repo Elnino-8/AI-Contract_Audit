@@ -47,7 +47,7 @@ MiMo V2.5's reasoning model excels at:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/audit-chain.git
+git clone https://github.com/elnino-8/audit-chain.git
 cd audit-chain
 
 # Install dependencies
